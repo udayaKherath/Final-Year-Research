@@ -181,4 +181,5 @@
 - Claim amount prediction: Describe the high-accuracy cluster with company experts for targeted implementation
 - Fraud detection: Apply models to other one-class scenarios, investigate accuracy instability and performance variations, explore reasons behind these issues
 
-![Figure 1](https://raw.githubusercontent.com/username/repo/branch/figure1.png)
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img1.png)
+
