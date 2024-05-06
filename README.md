@@ -1,7 +1,7 @@
 # Enhancing Claims Processing Efficiency in the Insurance Sector through AI Integration
 
 ## 1 INTRODUCTION
-<p style="text-align: justify;">The insurance industry faces challenges in optimizing claims processing efficiency, par
+<div style="text-align: justify;">The insurance industry faces challenges in optimizing claims processing efficiency, par
 ticularly due to the increasing number of claims andthelimitedcapacity of humanexperts
 to extract, analyze, and judge case details. This research explores the integration of ar
 tificial intelligence (AI) techniques to improve two critical aspects of claims processing:
@@ -19,7 +19,7 @@ tics of claims forecasting and fraud detection, providing insights into the effe
 integrating AI for claims processing. The findings offer strategies for insurance compa
 nies to increase efficiency, reduce processing time, and mitigate the risks associated with
 fraudulent claims, demonstrating the transformative potential of AI in advancing claims
-processing capabilities within the evolving insurance sector.</p>
+processing capabilities within the evolving insurance sector.</div>
 
 ### 1.1 Claim Amount Forecasting
 
