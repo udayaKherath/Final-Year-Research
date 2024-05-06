@@ -1,6 +1,25 @@
 # Enhancing Claims Processing Efficiency in the Insurance Sector through AI Integration
 
 ## 1 INTRODUCTION
+The insurance industry faces challenges in optimizing claims processing efficiency, par
+ticularly due to the increasing number of claims andthelimitedcapacity of humanexperts
+ to extract, analyze, and judge case details. This research explores the integration of ar
+tificial intelligence (AI) techniques to improve two critical aspects of claims processing:
+ forecasting claim amounts and detecting fraudulent claims.
+ When forecasting the claim amount we used different machine-learning (ML) models
+ and XGBoostgivesthehighest accuracy which is 49%. Toenhancetheaccuracyofclaim
+ amount forecasting, the data was clustered, and XGBoost was trained on each cluster. It
+ was found that cluster 0 exhibited significantly higher accuracy compared to the other
+ two clusters and it is about 63%. In addition, when detecting claim fraud, the highly
+ class-imbalanced issue was addressed using the Generative Adversarial Network (GAN)
+ as a novel approach. This method outperformed existing techniques and achieved a high
+ accuracy of 77% in detecting fraudulent activity.
+ The research used different datasets to emphasize the unique challenges and characteris
+tics of claims forecasting and fraud detection, providing insights into the effectiveness of
+ integrating AI for claims processing. The findings offer strategies for insurance compa
+nies to increase efficiency, reduce processing time, and mitigate the risks associated with
+ fraudulent claims, demonstrating the transformative potential of AI in advancing claims
+ processing capabilities within the evolving insurance sector.
 
 ### 1.1 Claim Amount Forecasting
 
