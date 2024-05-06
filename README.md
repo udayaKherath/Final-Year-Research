@@ -135,6 +135,7 @@
 - Generator learns the distribution of samples, discriminator estimates probability of real vs. generated data
 - Training objective: Generator confuses discriminator, discriminator distinguishes real from fake
 - Feature selection: Manual vs. SAE-based feature extraction
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img1.png)
 
 #### 3.5.3 Performance Metrics
 
@@ -181,6 +182,4 @@
 
 - Claim amount prediction: Describe the high-accuracy cluster with company experts for targeted implementation
 - Fraud detection: Apply models to other one-class scenarios, investigate accuracy instability and performance variations, explore reasons behind these issues
-
-![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img1.png)
 
