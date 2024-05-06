@@ -137,6 +137,9 @@
 - Feature selection: Manual vs. SAE-based feature extraction
 ![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img1.png)
 
+- Complete Architecture
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img2.png)
+
 #### 3.5.3 Performance Metrics
 
 - Precision: Fraction of true frauds among classified frauds
@@ -170,6 +173,7 @@
 - GAN model outperformed GAN+SAE in precision, recall, and F1-score
 - Significant improvement in accuracy compared to One-Class SVM
 - GAN and GAN+SAE outperformed Decision Tree with SMOTE
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img3.png)
 
 ## 5 CONCLUSION
 
