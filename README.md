@@ -138,7 +138,7 @@
 ![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img1.png)
 
 - Complete Architecture
-![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img2.png)
+![Figure 2](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img2.png)
 
 #### 3.5.3 Performance Metrics
 
