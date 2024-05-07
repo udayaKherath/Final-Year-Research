@@ -12,7 +12,7 @@
     - Contributes to a positive customer experience
     - Enables data-driven decision-making and continuous refinement of pricing models and strategies
 
-### 1.2 Claim Fraud Detection (The issue of lack of data)
+### 1.2 Claim Fraud Detection (The issue of lack of data) 
 
 - Insurance fraud detection has gained attention due to losses caused by fraudulent activities
 - Insurance fraud can take various forms:
